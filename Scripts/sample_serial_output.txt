@@ -1,0 +1,19 @@
+[BOOT] Industrial monitoring system started
+
+[BOOT] Temperature sensor: LM35/TMP36 analog on ADC1_IN5
+
+[BOOT] I2C1 and SPI1 channels enabled for expansion
+
+[SENS] T=28.54C GAS=12.48% VIB=0 LVL=0
+
+[STAT] NORMAL
+
+[COMM] I2C=OK DEV=0x5A SPI=MISS RX=0x00
+
+[SENS] T=47.21C GAS=18.12% VIB=0 LVL=0
+
+[STAT] WARNING
+
+[SENS] T=63.02C GAS=71.44% VIB=1 LVL=0
+
+[ALRM] TEMP,GAS,VIBRATION
