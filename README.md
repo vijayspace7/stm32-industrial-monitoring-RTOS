@@ -101,5 +101,4 @@ So treat this zip as a **complete project template plus integration-ready source
 [COMM] I2C=OK DEV=0x5A SPI=MISS RX=0x00
 ```
 
-## Safety note
-This is a **training and portfolio project**, not a certified industrial controller. Add isolation, protection, filtering, watchdog handling, and fault-tested interface circuits before any real deployment.
+
