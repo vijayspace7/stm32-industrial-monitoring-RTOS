@@ -8,6 +8,7 @@
 #include "comm_if.h"
 #include <stdio.h>
 #include <string.h>
+#include <wire.h>
 
 osThreadId_t sensorTaskHandle;
 osThreadId_t monitorTaskHandle;
