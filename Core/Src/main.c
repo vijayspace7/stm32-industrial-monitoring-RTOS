@@ -1,5 +1,6 @@
 #include "main.h"
 #include "cmsis_os2.h"
+#include<stdint.h>
 
 ADC_HandleTypeDef hadc1;
 UART_HandleTypeDef huart2;
@@ -208,6 +209,6 @@ void Error_Handler(void)
     while (1)
     {
         HAL_GPIO_TogglePin(GREEN_LED_GPIO_Port, GREEN_LED_Pin);
-        HAL_Delay(100);
+        HAL_Delay(200);
     }
 }
