@@ -1,6 +1,6 @@
 # Industrial Sensory Monitoring and Alert System
 
-A complete STM32 + FreeRTOS project template for an **industrial sensory monitoring and alert system**.
+A complete STM32 + FreeRTOS project for an **industrial sensory monitoring and alert system**.
 
 This updated package targets **STM32L476RG (NUCLEO-L476RG)** and uses an **analog temperature sensor** so the design can keep **I2C and SPI communication channels available** for expansion.
 
